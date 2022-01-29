@@ -20,7 +20,7 @@ namespace Ders3_ödev1_metotlar
             // buradaki ref referans tip seklinde gönderim yapıyor.
             Console.WriteLine(result3); // ref- out yazılmadığında 20 olur. Değer tip(Değer tutuyor) referans tip = adres gönerir.
             // ref-out yazılırsa result31 adres-ref değeri değiştiği için sn değeri yani 30 u alır.
-            //ref alternatifi out'dur. /ref yazılan yerlere out yazılır.) Ref değerinde ref edilecek değişkenin önceden tanımlanmış olması gerekirken out'ta buna gerek yoktur.Ayrıca out edilen değişkenin ilk değeri önemsizdir(okumaz).
+            //ref alternatifi out'dur. (ref yazılan yerlere out yazılır.) Ref değerinde ref edilecek değişkenin önceden tanımlanmış olması gerekirken out'ta buna gerek yoktur.Ayrıca out edilen değişkenin ilk değeri önemsizdir(okumaz).
             Console.WriteLine("number31 = " + number31);
 
 
