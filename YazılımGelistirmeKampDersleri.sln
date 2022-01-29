@@ -15,11 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3-matematik", "Ders3-ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3-degervereferanstipler", "Ders3-degervereferanstipler\Ders3-degervereferanstipler.csproj", "{02EEC10D-2FEF-4B1A-83C8-00E9E005DBCF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Der3odev-classMetotDemo", "Der3odev-classMetotDemo\Der3odev-classMetotDemo.csproj", "{A8F33387-079E-47A4-B6C0-3291CD51D097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3odev-classMetotDemo", "Der3odev-classMetotDemo\Ders3odev-classMetotDemo.csproj", "{A8F33387-079E-47A4-B6C0-3291CD51D097}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2odev-EticaretClass", "Ders2odev-EticaretClass\Ders2odev-EticaretClass.csproj", "{1FA969F0-C17A-4897-AE83-702EC4132EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3-ödev1_metotlar", "Ders3-ödev1_metotlar\Ders3-ödev1_metotlar.csproj", "{D6C591DB-AA37-46E0-8B94-63816949D8E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3-ödev1_metotlar", "Ders3-ödev1_metotlar\Ders3-ödev1_metotlar.csproj", "{D6C591DB-AA37-46E0-8B94-63816949D8E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
